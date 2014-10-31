@@ -1,6 +1,6 @@
-package org.uqbar.peliculas_android_xtend.services
+package org.uqbar.helloWorld.services
 
-import org.uqbar.peliculas_android_xtend.domain.Greeting
+import org.uqbar.helloWorld.domain.Greeting
 import retrofit.Callback
 import retrofit.http.GET
 

@@ -1,4 +1,4 @@
-package org.uqbar.peliculas_android_xtend.domain
+package org.uqbar.helloWorld.domain
 
 import org.eclipse.xtend.lib.annotations.Accessors
 

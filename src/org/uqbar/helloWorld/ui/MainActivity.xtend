@@ -1,4 +1,4 @@
-package org.uqbar.peliculas_android_xtend
+package org.uqbar.helloWorld.ui
 
 import android.app.Activity
 import android.os.Bundle
@@ -9,9 +9,8 @@ import android.view.View
 import android.view.View.OnClickListener
 import android.widget.Button
 import android.widget.TextView
-import java.io.IOException
-import org.uqbar.peliculas_android_xtend.domain.Greeting
-import org.uqbar.peliculas_android_xtend.services.GreetingService
+import org.uqbar.helloWorld.domain.Greeting
+import org.uqbar.helloWorld.services.GreetingService
 import retrofit.Callback
 import retrofit.RestAdapter
 import retrofit.RetrofitError
